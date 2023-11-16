@@ -14,6 +14,6 @@ The AnarchoMedia is a foundation made for stupidly creative people, specially th
 
 ## SFN (Social Fucking Networks)
 
-- [Discord](https://discord.com/invite/xUr5Se99k7) 
-- [GitHub](https://github.com/AnarchoMedia) 
-- [Blog](https://anarchomedia.blogspot.com) 
+- [Discord](https://discord.com/invite/xUr5Se99k7)
+- [GitHub](https://github.com/AnarchoMedia)
+- [Blog](https://anarchomedia.blogspot.com)
