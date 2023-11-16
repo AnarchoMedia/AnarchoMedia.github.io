@@ -7,3 +7,4 @@ The AnarchoMedia is a foundation made for stupidly creative people, specially th
 - [AnarQuotes](https://anarchomedia.github.io/AnarQuotes)
 - [AnarchoBooks](https://anarchomedia.github.io/AnarchoBooks)
 - [AnarchoNews](https://anarchomedia.github.io/AnarchoNews)
+- [AnrachoVoyage](https://anarchomedia.github.io/AnarchoVoyage)
