@@ -4,8 +4,10 @@ The AnarchoMedia is a foundation made by an idiot for stupidly creative people, 
 
 ## SFN (Social Fucking Networks)
 
+- [Blog](https://anarchomedia.blogspot.com/)
 - [Discord](https://discord.com/invite/xUr5Se99k7)
 - [GitHub](https://github.com/AnarchoMedia)
-- [Blog](https://anarchomedia.blogspot.com)  
+- [NeoCities](https://gabethecat.neocities.org/anachomedia)
+
 <hr>  
 Project under [CC0](https://anarchomedia.github.io/LICENSE.txt)
