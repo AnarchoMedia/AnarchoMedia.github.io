@@ -9,5 +9,5 @@ The AnarchoMedia is a foundation made by an idiot for stupidly creative people, 
 - [GitHub](https://github.com/AnarchoMedia)
 - [NeoCities](https://gabethecat.neocities.org/anachomedia)
 
-<hr>  
+--- 
 Project under [CC0](https://anarchomedia.github.io/LICENSE.txt), ***World Domination Since 2023***
