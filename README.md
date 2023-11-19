@@ -1,2 +1,2 @@
 # AnarchoMedia.github.io
-> "***World Domination since 2023***"
+> "***World Domination Since 2023***"
