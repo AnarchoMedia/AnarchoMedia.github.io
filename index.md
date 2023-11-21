@@ -7,7 +7,7 @@ The AnarchoMedia is a foundation made by an idiot for stupidly creative people, 
 - [Blog](https://anarchomedia.blogspot.com/)
 - [Discord](https://discord.com/invite/xUr5Se99k7)
 - [GitHub](https://github.com/AnarchoMedia)
-- [NeoCities](https://gabethecat.neocities.org/anachomedia)
+- [NeoCities](https://gabethecat.neocities.org/anarchomedia)
 
 --- 
 Project under [CC0](https://anarchomedia.github.io/LICENSE.txt), ***World Domination Since 2023***
